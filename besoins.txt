@@ -1,0 +1,20 @@
+composer req api make
+composer require migrations
+composer require symfony/serializer
+composer require friendsofsymfony/rest-bundle
+composer require symfony/web-server-bundle --dev
+composer require form annotations
+composer require --dev symfony/browser-kit symfony/css-selectorcomposer require friendsofsymfony/rest-bundle
+composer require symfony/maker-bundle --dev
+composer require --dev symfony/browser-kit symfony/css-selector
+composer require lexik/jwt-authentication-bundle
+composer require --dev symfony/phpunit-bridge
+composer require profiler
+composer require orm-fixtures --dev 
+composer req --dev fzaninotto/faker
+composer require validator
+composer require dompdf/dompdf
+composer req cors
+composer require symfony/orm-pack
+composer require --dev symfony/maker-bundle
+
